@@ -1,0 +1,7 @@
+## Interface: 30401 
+## Title: StayAlive
+## Notes: Manages defensives for raid members and leaders
+## Author: Ryan Davis
+## Version: 0.0.1
+
+StayAlive.lua
